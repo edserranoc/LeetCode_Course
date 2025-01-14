@@ -1,5 +1,5 @@
 # LeetCode Course
-This repository contains the solutions to the Top Interview 150 problems from the LeetCode course.
+This repository contains the solutions to the Top Interview 150 problems from the LeetCode course, developed in Python and C++ programming languages.
 
 
 ## License
