@@ -38,7 +38,7 @@ This repository contains the solutions to the Top Interview 150 problems from th
         </tr>
         <tr>
             <td><b>3</b></td>
-            <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150" target="_blank">27. Remove Duplicates from Sorted Array</a></td>
+            <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150" target="_blank">26. Remove Duplicates from Sorted Array</a></td>
             <td>:white_check_mark:</td>
             <td>0 ms [Python]</td>
             <td>17.91 MB [Python]</td>
@@ -52,9 +52,24 @@ This repository contains the solutions to the Top Interview 150 problems from th
             <td>16.45 MB [Python]</td>
             <td> Medium</td>
         </tr>
+        <tr>
+            <td><b>5</b></td>
+            <td><a href="https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150" target="_blank">169. Majority Element</a></td>
+            <td>:white_check_mark:</td>
+            <td>50 ms [Python]</td>
+            <td>16.45 MB [Python]</td>
+            <td> Medium</td>
+        </tr>
+        <tr>
+            <td><b>6</b></td>
+            <td><a href="https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150" target="_blank">189. Rotate Array</a></td>
+            <td>:white_check_mark:</td>
+            <td>5 ms [Python]</td>
+            <td>24.93 MB [Python]</td>
+            <td> Medium</td>
+        </tr>
     </tbody>
 </table>
-
 
 
 ## License
