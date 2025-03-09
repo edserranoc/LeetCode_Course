@@ -66,11 +66,37 @@ This repository contains the solutions to the Top Interview 150 problems from th
             <td>:white_check_mark:</td>
             <td>5 ms [Python]</td>
             <td>24.93 MB [Python]</td>
-            <td> Medium</td>
+            <td> Easy</td>
+        </tr>
+        <tr>
+            <td><b>6</b></td>
+            <td><a href="https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150" target="_blank">189. Rotate Array</a></td>
+            <td>:white_check_mark:</td>
+            <td>5 ms [Python]</td>
+            <td>24.93 MB [Python]</td>
+            <td> Easy</td>
+        </tr>
+        <tr>
+            <td><b>8</b></td>
+            <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150" target="_blank">122. Best Time to Buy and Sell Stock II</a></td>
+            <td>:white_check_mark:</td>
+            <td>0 ms [C++]</td>
+            <td>17.32 MB   [C++]</td>
+            <td>Medium</td>
         </tr>
     </tbody>
 </table>
 
+<!-- this is a comment 
+1. 55.Jump Game
+https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150
+271 ms    [C++]
+53.19 MB [C++]
+
+1.  45. Jump Game II
+https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150
+0ms [C++]
+18.6 MB [Python]-->
 
 ## License
 This project is licensed under the GPL-3.0 license. See the LICENSE file for details.
