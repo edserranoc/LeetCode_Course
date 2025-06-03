@@ -68,7 +68,7 @@ class Solution {
                         
                     }
                 }
-                cout << "index: " << index << " height[index]: " << height[index] << " water: " << water << endl;
+                //cout << "index: " << index << " height[index]: " << height[index] << " water: " << water << endl;
             }
 
             return water;
